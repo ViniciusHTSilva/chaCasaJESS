@@ -13,7 +13,7 @@ if(isOpen){
         <div className="avisoCard">
 
             <div className="cardAviso">
-                <button className="buttonx"  onClick={(setOpenModal)} >Fechar</button>
+                <button className="buttonx"  onClick={(setOpenModal)} >X</button>
                 <h1 className="avisoInit">Aviso Importante !!</h1>
                 <p className="aviso-text">Convidado <p className="nao"> NÂO </p> convida</p>
 
