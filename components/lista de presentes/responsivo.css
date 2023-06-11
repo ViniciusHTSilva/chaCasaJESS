@@ -190,3 +190,17 @@
    
     }
 }
+
+
+@media screen and (max-width: 950px){
+
+  .cardAviso{
+    left: 50px;
+
+    }
+ 
+    
+    .ver{
+      margin-left: 50px;
+    }
+}
