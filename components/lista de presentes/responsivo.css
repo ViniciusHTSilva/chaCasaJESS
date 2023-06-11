@@ -16,7 +16,7 @@
         width: 330px;
         height: 450px;
         top: 100px;
-        left: 30px;
+        left: 50%;
  
         }
        
@@ -157,6 +157,8 @@
       justify-content: center;
       align-items: center;
       margin-top: -60px;
+      font-size: 26px;
+      width: auto;
    
   }
   #comunique{
