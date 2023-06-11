@@ -1,4 +1,4 @@
-@media screen and (max-width: 768px){
+@media screen and (max-width: 1024px){
     /*aviso */
     .avisoCard{
  
@@ -13,10 +13,10 @@
     
     .cardAviso{
 
-        width: 310px;
+        width: 340px;
         height: 450px;
         top: 100px;
-        left: 30px;
+        left: 15px;
  
         }
        
