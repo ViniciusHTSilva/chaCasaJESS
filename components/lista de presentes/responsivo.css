@@ -96,5 +96,76 @@
           }
         
          /*Lista */      
+          
+        #lista-item{
+  height: 100vh;
+  width: 100%;
+  
+  }
+  
+  header{
+  padding:.1rem  1rem ;
+  }
+  
+  
+  .titleheader h1{
+      background-color: var(--color-back-color);
+      font-size: 26px;
+  }
+  
+  
+  /*main*/
+  
+  main{
+       
+      padding: 0.5rem;
+  
+      display: inline-block;
+      overflow-y: scroll;
+  }
+
+  .detalhes{
+      background-color: var(--color-lista-white);
+
+    
+  }
+
+  
+  .item{
+      display: inline-block;
+      gap: 2.4rem;
+      padding: 10px;
+  
+  
+  }
+   .item img{
+      width: 8.4rem ;
+      height: 8.4rem;  
+   }
+  
+  
+  /*footer*/
+  footer{
+      padding:2.5rem 2.2rem;
+      
+      height: 20px;
+
+          
+  }
+  #outroLevar{
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      margin-top: -40px;
+   
+  }
+  #comunique{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+  }
+  
+
 
 }
