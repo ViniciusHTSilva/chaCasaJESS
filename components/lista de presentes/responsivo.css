@@ -12,39 +12,40 @@
     
     
     .cardAviso{
-        width: 180px;
-        height: 250px;
-        top: 60px;
-        left: 5px;
+
+        width: 340px;
+        height: 450px;
+        top: 100px;
+        left: 10px;
  
         }
        
     .avisoInit{
-        left: 15%;
-        font-size: 15px;
+        left: 10%;
+        font-size: 30px;
     }
     
     .aviso-text{
-        left: 2%;
+        left: 7%;
         top: 20%;
-        font-size: 13px;
+        font-size: 25px;
         
     }
     
 
     .buttonx{
   
-        left: 8.1rem;
+        left: 18.1rem;
         width: 50px;
         height: 20px;
         font-size: 10px;
     }
     
     .gato{
-        left: 10%;
-        margin-top: 90px;
-        width: 150px;
-        height: 100px;
+        left: 7%;
+        margin-top: 200px;
+        width: 300px;
+        height: 150px;
     }
 
         /*texto incial */
@@ -54,25 +55,30 @@
  
           left: 10px;
           top: 10px;
-          width: 20px;
-          height: 270px;
+          width: auto;
+          height: 500px;
   
         
         
         }
         .text{
           margin-top: 10px;
-          margin-left: 150px;
-          font-size: 10px;
+          margin-left: 10px;
         }
-        
+        .text h1{
+      
+          font-size: 20px;
+        }
+        .text p{
+          font-size: 20px;
+        }
   
         .ver{
       
-          margin-left: 5px;
+          margin-left: 20px;
           border: 2px solid white;
           border-radius: 10px;
-          width: 180px;
+          width: 310px;
           height: 40px;
         
 
@@ -81,7 +87,7 @@
         
         #verLista{
       
-          width: 150px ;
+          width: 300px;
           height: 30px;         
           font-size: 25px;
         
