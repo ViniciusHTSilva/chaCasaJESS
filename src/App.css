@@ -1,0 +1,10 @@
+@media screen and (max-width: 768px){
+    .avisoCard{
+        width: 500px;
+        height: 100px;
+    }
+
+    .cardAviso{
+        width: 10px;
+    }
+}

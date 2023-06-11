@@ -1,0 +1,71 @@
+:root {
+    --color-back-color: #000;
+    --color--primary: rgb(106, 15, 148);
+    --color-lista: #3f3f46;
+    --color-lista-escuro: #1b1b1d;
+}
+
+.avisoCard{
+    position: fixed;
+    background-color: rgba(115, 91, 121, 0.8);
+    width: 100%;
+    height: 100%;
+   
+  
+ 
+}
+
+.cardAviso{
+    position: absolute;
+    left: 30%;
+    top: 10%;
+    text-align: center;
+    background-color:black;
+    color: white;
+    height: 500px;
+    width: 500px;
+    border-radius: 10px;
+    }
+   
+.avisoInit{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    background-color:black;
+    font-size: 45px;
+}
+
+.aviso-text{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: black;
+    gap: 10px;
+    position: absolute;
+    left: 25%;
+    top: 25%;
+    font-size: 20px;
+    
+}
+
+.nao{
+    color: red;
+}
+
+.buttonx{
+    color: white;
+    background-color:var(--color--primary) ;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    position: absolute;
+    left: 27.7rem;
+}
+
+.gato{
+    position: absolute;
+    left: 10%;
+    margin-top: 160px;
+    width: 400px;
+    height: 300px;
+}

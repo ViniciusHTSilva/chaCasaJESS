@@ -1,0 +1,14 @@
+:root {
+  --color-back-color: #000;
+  --color--primary: rgb(153, 44, 204);
+  --color-lista: #3f3f46;
+  --color-lista-escuro: #1b1b1d;
+  --color-lista-white: #ffffff;
+}
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    background-color:var(--color-back-color) ;
+   
+  }
+  
