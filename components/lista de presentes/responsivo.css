@@ -13,7 +13,7 @@
     
     .cardAviso{
 
-        width: 340px;
+        width: 330px;
         height: 450px;
         top: 100px;
         left: 10px;
@@ -35,7 +35,7 @@
 
     .buttonx{
   
-        left: 18.1rem;
+        left: 17.5rem;
         width: 50px;
         height: 20px;
         font-size: 10px;
@@ -55,22 +55,24 @@
  
           left: 10px;
           top: 10px;
-          width: auto;
+          width: 350px;
           height: 500px;
   
         
         
         }
         .text{
-          margin-top: 10px;
+          margin-top: 100px;
           margin-left: 10px;
         }
         .text h1{
       
-          font-size: 20px;
+          font-size: 30px;
+          width: 300px;
         }
         .text p{
           font-size: 20px;
+          width: 300px;
         }
   
         .ver{
@@ -93,6 +95,6 @@
         
           }
         
-       
+         /*Lista */      
 
 }
