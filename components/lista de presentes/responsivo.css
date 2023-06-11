@@ -168,6 +168,85 @@
    
   }
   
+ /*Form Presente*/
+ 
+#fecharpresente{
+    background-color: white;
+    color: var(--color--primary);
+    border: none;
+    border-radius: 10px;
+    width: 50px;
+    cursor: pointer;
+  
+    margin-left: 350px;
+    
+}
+#fecharpresente:active{
+    transform: scale(0.95);
+}
 
+.presente{
+    position: absolute;
+    background-color: rgba(115, 91, 121, 0.8);
+    top: 0;
+    width: 100%;
+    height: 100%;
+    
+   
+  
+ 
+}
+
+.cardpresente{
+    left: 1%;
+    top: 10%;
+    color: white;
+    height: 500px;
+    width: 400px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   
+    }
+    #textpresent{
+        background-color: var(--color--primary);
+       
+        font-size: 40px;
+    }
+    #p{
+        font-size: 45px;
+
+    }
+ 
+    form{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        border-radius: 10px;
+        background-color: var(--color--primary);
+       
+    }
+
+    form input{
+        width: 70%;
+        height: 15%;
+        border-radius: 20px;
+        border: 2px solid black;
+    }
+
+    .enviar{
+        width: 50%;  
+        cursor: pointer;
+    }
+
+   
+    .enviar:active{
+        transform: scale(0.95);
+    }
 
 }
