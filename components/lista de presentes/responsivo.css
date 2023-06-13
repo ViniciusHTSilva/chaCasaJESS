@@ -55,7 +55,7 @@
    
         .text-inicial{
  
-          left: 10px;
+          left: 0px;
           top: 10px;
           width: 350px;
           height: 500px;
@@ -64,18 +64,18 @@
         
         }
         .text{
-          margin-top: 100px;
-          margin-left: 10px;
+          margin-top: 170px;
+          margin-left: -190px;
         }
         .text h1{
       
           font-size: 30px;
-          width: 300px;
+          width: 30px;
           margin-top: -80px;
         }
         .text p{
           font-size: 20px;
-          width: 300px;
+          width: 150px;
         }
   
         .ver{
@@ -98,7 +98,7 @@
         
           }
           .jess{
-           position: absolute;
+           
             width: 0px;
             height: 0px;
             left: 30%;
@@ -106,9 +106,9 @@
           }
 
           .jess img{
-           
+            margin-top: 20px;
              width: auto;
-             height: 350px;
+             height: 430px;
              left: 0;
            }
         
