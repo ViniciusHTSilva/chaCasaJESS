@@ -15,7 +15,7 @@ export default function Init() {
             </div>
 
             <div className="jess">
-                <img src="https://i.ibb.co/s9BFyYV/jess.png" alt="" />
+                <img src="https://i.ibb.co/ryZxVs3/Screenshot-20230612-234125-Whats-App-fotor-bg-remover-20230612234217.png" alt="" />
             </div>
 
            

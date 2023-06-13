@@ -71,6 +71,7 @@
       
           font-size: 30px;
           width: 300px;
+          margin-top: -80px;
         }
         .text p{
           font-size: 20px;
@@ -98,16 +99,16 @@
           }
           .jess{
            position: absolute;
-            width: 10px;
-            height: 10px;
-            left: 0;
-            top: 32%;
+            width: 0px;
+            height: 0px;
+            left: 30%;
+            top: 20%;
           }
 
           .jess img{
            
              width: auto;
-             height: 300px;
+             height: 400px;
              left: 0;
            }
         
