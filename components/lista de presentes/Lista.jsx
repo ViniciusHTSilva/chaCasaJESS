@@ -25,7 +25,7 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                 <div id="lista-item">
                     <header>
                         <div className="titleheader">
-                            <h1> Bem Vindo a Lista da Jess</h1>
+                            <h1> Olá, essa Lista são APENAS sugestões, Caso queira presentear, aperte em "Digite aqui".</h1>
 
                         </div>
                         <button id="listafechar" onClick={(setOpenModallista)}>x</button>
