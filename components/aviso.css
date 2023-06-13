@@ -56,10 +56,11 @@
 .buttonx{
     color: white;
     background-color:var(--color--primary) ;
-    border-radius: 0.5rem;
+    border-radius: 10px;
+    border: none;
     cursor: pointer;
     position: absolute;
-    left: 27.7rem;
+    left: 95%;
 }
 
 .gato{
