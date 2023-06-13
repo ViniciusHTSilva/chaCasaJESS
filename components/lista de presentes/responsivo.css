@@ -96,6 +96,20 @@
           font-size: 25px;
         
           }
+          .jess{
+           position: absolute;
+            width: 10px;
+            height: 10px;
+            left: 0;
+            top: 32%;
+          }
+
+          .jess img{
+           
+             width: auto;
+             height: 300px;
+             left: 0;
+           }
         
          /*Lista */      
           
@@ -123,7 +137,9 @@
       padding: 0.5rem;
   
       display: inline-block;
+     margin-left: 30px;
       overflow-y: scroll;
+      
   }
 
   .detalhes{
@@ -135,14 +151,15 @@
   
   .item{
       display: inline-block;
-      gap: 2.4rem;
-      padding: 10px;
-  
+     
+      padding: 7px;
+      font-size: 12px;
   
   }
    .item img{
-      width: 10.4rem ;
-      height: 10.4rem;  
+      width: 8.2rem ;
+      height: 7.4rem; 
+       
    }
   
   

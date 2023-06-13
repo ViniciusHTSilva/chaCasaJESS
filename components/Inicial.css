@@ -67,3 +67,8 @@ transition: 2s background-color;
     color: #000;
    
   }
+
+  .jess{
+    position: absolute;
+    left: 50%;
+  }
