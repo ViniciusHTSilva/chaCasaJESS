@@ -33,10 +33,7 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
 
                     <main>
 
-                        <ItemLista
-                            foto="https://i.ibb.co/Rh8tkcb/IMG-20230602-WA0015.jpg"
-                            descricao="Mini Pocessador"
-                        />
+                       
                         <ItemLista
                             foto="https://i.ibb.co/S00J374/IMG-20230602-WA0024.jpg"
                             descricao="Panos de Prato"
