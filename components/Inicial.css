@@ -12,7 +12,7 @@
   align-self:center;
   left: 10px;
   top: 130px;
-  width: 40%;
+  width: 70%;
   color: white;    
 
 
@@ -72,3 +72,14 @@ transition: 2s background-color;
   
     left: 60%;
   }
+
+  .container{
+    width: 450px;
+    height: 200px;
+    border: 2px solid  var(--color--primary);
+    margin-top: 20%;
+    margin-left: 20px;
+  } 
+
+  
+ 

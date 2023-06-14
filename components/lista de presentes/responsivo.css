@@ -55,17 +55,19 @@
    
         .text-inicial{
  
-          left: 0px;
+        display: inline-block;
           top: 10px;
           width: 350px;
-          height: 500px;
+      
+          margin-left: -20px;
   
         
         
         }
         .text{
           margin-top: 170px;
-          margin-left: -190px;
+          height: 200px;
+         
         }
         .text h1{
       
@@ -75,7 +77,7 @@
         }
         .text p{
           font-size: 20px;
-          width: 150px;
+          width: 120px;
         }
   
         .ver{
@@ -101,17 +103,29 @@
            
             width: 0px;
             height: 0px;
-            left: 30%;
-            top: 20%;
+       
           }
 
           .jess img{
-            margin-top: 20px;
-             width: auto;
+            margin-top: 0px;
+             width: 180px;
              height: 430px;
-             left: 0;
+             margin-left: 190px;
+             margin-top: -300px;
+           
            }
-        
+
+           .container{
+          display: inline-block;
+            width: max-content;
+            height: 150px;
+            font-size: 10px;
+            margin-left: 10%;
+            margin-top: 70px;
+
+       
+           }
+         
          /*Lista */      
           
         #lista-item{
