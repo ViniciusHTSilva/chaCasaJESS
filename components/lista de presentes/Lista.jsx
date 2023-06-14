@@ -270,16 +270,6 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                         />
 
 
-                        <ItemLista
-                            foto="https://i.ibb.co/dJY273K/IMG-20230602-WA0008.jpg"
-                            descricao="Copo medidor/ Colheres"
-                        />
-
-
-                        <ItemLista
-                            foto="https://i.ibb.co/kQCytmG/IMG-20230602-WA0007.jpg"
-                            descricao="Bule de Café"
-                        />
 
 
                         <ItemLista
