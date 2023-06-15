@@ -33,10 +33,7 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
 
                     <main>
 
-                        <ItemLista
-                            foto="https://i.ibb.co/Rh8tkcb/IMG-20230602-WA0015.jpg"
-                            descricao="Mini Pocessador"
-                        />
+                       
                         <ItemLista
                             foto="https://i.ibb.co/S00J374/IMG-20230602-WA0024.jpg"
                             descricao="Panos de Prato"
@@ -273,16 +270,6 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                         />
 
 
-                        <ItemLista
-                            foto="https://i.ibb.co/dJY273K/IMG-20230602-WA0008.jpg"
-                            descricao="Copo medidor/ Colheres"
-                        />
-
-
-                        <ItemLista
-                            foto="https://i.ibb.co/kQCytmG/IMG-20230602-WA0007.jpg"
-                            descricao="Bule de Café"
-                        />
 
 
                         <ItemLista
