@@ -190,8 +190,8 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      margin-top: -60px;
-      font-size: 26px;
+      margin-top: -70px;
+      font-size: 20px;
       width: auto;
    
   }
@@ -199,6 +199,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 15px;
    
   }
   

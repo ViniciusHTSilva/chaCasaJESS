@@ -7,7 +7,7 @@ export default function Init() {
 
     return (
         <div className='text-inicial'>
-
+        
                 
             <div className="text">
             <h1>Finalmente vou me mudar! </h1>
