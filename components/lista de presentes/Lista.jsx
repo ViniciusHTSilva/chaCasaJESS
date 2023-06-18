@@ -258,10 +258,7 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                         />
 
 
-                        <ItemLista
-                            foto="https://i.ibb.co/XyNpC4d/IMG-20230602-WA0010.jpg"
-                            descricao="Escorredor Arroz/Massa"
-                        />
+                      
 
 
                         <ItemLista
@@ -270,12 +267,6 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                         />
 
 
-
-
-                        <ItemLista
-                            foto="https://i.ibb.co/PN0ZxvQ/IMG-20230602-WA0006.jpg"
-                            descricao="Jogo de Copos"
-                        />
 
 
                         <ItemLista
