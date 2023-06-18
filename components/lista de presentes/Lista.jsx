@@ -166,10 +166,7 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                         />
 
 
-                        <ItemLista
-                            foto="https://i.ibb.co/Kb1RZ7q/IMG-20230602-WA0056.jpg"
-                            descricao="Saleiro"
-                        />
+                        
 
 
                         <ItemLista
