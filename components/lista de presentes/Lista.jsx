@@ -87,10 +87,7 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                         />
 
 
-                        <ItemLista
-                            foto="https://i.ibb.co/TL18FFb/IMG-20230602-WA0040.jpg"
-                            descricao="Jogo de Taças"
-                        />
+                       
 
 
                         <ItemLista
@@ -252,15 +249,6 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                         <ItemLista
                             foto="https://i.ibb.co/ZcnHjmj/IMG-20230602-WA0014.jpg"
                             descricao="Kit de Colheres de Silicone "
-                        />
-
-
-                      
-
-
-                        <ItemLista
-                            foto="https://i.ibb.co/dbpSQHf/IMG-20230602-WA0009.jpg"
-                            descricao="Kit Colheres de Pau"
                         />
 
 
