@@ -222,11 +222,6 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                         />
 
 
-                        <ItemLista
-                            foto="https://i.ibb.co/MSJ3qNp/IMG-20230602-WA0045.jpg"
-                            descricao="Aparelho de Jantar"
-                        />
-
 
                         <ItemLista
                             foto="https://i.ibb.co/TY5RJVj/IMG-20230602-WA0044.jpg"
