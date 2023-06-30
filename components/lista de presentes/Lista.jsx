@@ -104,10 +104,7 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                         />
 
 
-                        <ItemLista
-                            foto="https://i.ibb.co/qFFpJSL/IMG-20230602-WA0028.jpg"
-                            descricao="Potes Plasticos"
-                        />
+                       
 
 
                         <ItemLista
@@ -133,10 +130,7 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                             descricao="Baldes"
                         />
 
-                        <ItemLista
-                            foto="https://i.ibb.co/mq4sdG3/IMG-20230602-WA0003.jpg"
-                            descricao="Assadeira de Vidro"
-                        />
+                        
 
 
                         <ItemLista
