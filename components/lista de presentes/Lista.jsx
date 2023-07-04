@@ -245,10 +245,7 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                             descricao="Kit Pia/ Cozinha"
                         />
 
-                        <ItemLista
-                            foto="https://i.ibb.co/7vTkjdr/IMG-20230602-WA0030.jpg"
-                            descricao="Porta mantimentos hermético"
-                        />
+                        
 
 
                         <ItemLista
