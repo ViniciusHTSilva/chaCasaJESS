@@ -139,10 +139,7 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                         />
 
 
-                        <ItemLista
-                            foto="https://i.ibb.co/ZVT7ngF/IMG-20230602-WA0059.jpg"
-                            descricao="Boleira"
-                        />
+                        
 
 
                         <ItemLista
