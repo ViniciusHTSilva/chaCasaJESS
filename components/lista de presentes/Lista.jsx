@@ -98,10 +98,8 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
 
 
 
-                        <ItemLista
-                            foto="https://i.ibb.co/ncWbwxh/IMG-20230602-WA0029.jpg"
-                            descricao="Porta Condimentos"
-                        />
+                       
+                       
 
 
                        
