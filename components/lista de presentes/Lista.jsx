@@ -43,10 +43,7 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                             foto="https://i.ibb.co/GQHpxwG/IMG-20230602-WA0022.jpg"
                             descricao="Jogo de Sobremesa"
                         />
-                        <ItemLista
-                            foto="https://i.ibb.co/wpcss5z/IMG-20230602-WA0021.jpg"
-                            descricao="Fruteira de mesa"
-                        />
+                    
                      
                         <ItemLista
                             foto="https://i.ibb.co/yBz4yX5/IMG-20230602-WA0019.jpg"
