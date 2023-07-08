@@ -34,10 +34,7 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                     <main>
 
                        
-                        <ItemLista
-                            foto="https://i.ibb.co/S00J374/IMG-20230602-WA0024.jpg"
-                            descricao="Panos de Prato"
-                        />
+                       
                         <ItemLista
                             foto="https://i.ibb.co/JkZMMM7/IMG-20230602-WA0023.jpg"
                             descricao="Descanso de Panela"
@@ -50,10 +47,7 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                             foto="https://i.ibb.co/wpcss5z/IMG-20230602-WA0021.jpg"
                             descricao="Fruteira de mesa"
                         />
-                        <ItemLista
-                            foto="https://i.ibb.co/Yy1v18M/IMG-20230602-WA0020.jpg"
-                            descricao="Pegador de Salada /massa"
-                        />
+                     
                         <ItemLista
                             foto="https://i.ibb.co/yBz4yX5/IMG-20230602-WA0019.jpg"
                             descricao="Kit de Peneiras"
@@ -123,10 +117,7 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                         />
 
 
-                        <ItemLista
-                            foto="https://i.ibb.co/Nm9KVz8/IMG-20230602-WA0004.jpg"
-                            descricao="Baldes"
-                        />
+                       
 
                         
 
@@ -205,10 +196,7 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                         />
 
 
-                        <ItemLista
-                            foto="https://i.ibb.co/CPBpjg4/IMG-20230602-WA0046.jpg"
-                            descricao="Jogo de Toalhas"
-                        />
+                       
 
 
 
@@ -244,12 +232,6 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                         />
 
                         
-
-
-                        <ItemLista
-                            foto="https://i.ibb.co/zVtqDDc/IMG-20230602-WA0053.jpg"
-                            descricao="Espatula Manteiga/Requeijão"
-                        />
 
 
 
