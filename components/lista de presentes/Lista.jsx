@@ -53,10 +53,7 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                             descricao="Kit de Peneiras"
                         />
 
-                        <ItemLista
-                            foto="https://i.ibb.co/1bQxDjC/IMG-20230602-WA0018.jpg"
-                            descricao="Jarra de Suco"
-                        />
+                       
 
                         <ItemLista
                             foto="https://i.ibb.co/3vDgfYL/IMG-20230602-WA0017.jpg"
@@ -111,10 +108,7 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
                         />
 
 
-                        <ItemLista
-                            foto="https://i.ibb.co/x6VWnZV/IMG-20230602-WA0025.jpg"
-                            descricao="Potes de Vidro"
-                        />
+                     
 
 
                        
@@ -197,13 +191,6 @@ export default function lista({ isOpen1, setOpenModallista, children }) {
 
 
                        
-
-
-
-                        <ItemLista
-                            foto="https://i.ibb.co/TY5RJVj/IMG-20230602-WA0044.jpg"
-                            descricao="Jogo de Facas"
-                        />
 
 
                         <ItemLista
